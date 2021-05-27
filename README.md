@@ -1,4 +1,4 @@
-# Static Node.js and Express Site
+# Static Nodejs and Express Site
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -22,7 +22,7 @@ This is a personal portfolio made it with Node.js and express.
 - Express
 - Pug
 
-[Back To The Top](#static-node.js-and-express-site)
+[Back To The Top](#static-nodejs-and-express-site)
 
 ---
 
