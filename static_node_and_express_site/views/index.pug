@@ -1,0 +1,22 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    
+    h1 My Portfolio
+
+    
+    p These are some projects that i have done. 
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+
+     
+      each project in projects
+        .cell
+          a(href=`projects/${project.id}`)
+            img.thumbnail(src=`${project.images_urls[0]}`, alt='')
+            h5= project.project_name

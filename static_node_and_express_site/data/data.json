@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A random quote generator that change the background when switch between quotes.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://compeanr.github.io/Quote-Random-Generator/",
+            "github_link": "https://github.com/CompeanR/Quote-Random-Generator",
+            "images_urls": ["/static/images/firstProject0.jpg", "/static/images/firstProject1.jpg", "/static/images/firstProject2.jpg", "/static/images/firstProject3.jpg"]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination And Filtering",
+            "description": "A directory with an interactive search bar.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://compeanr.github.io/Data-Pagination-And-Filtering/",
+            "github_link": "https://github.com/CompeanR/Data-Pagination-And-Filtering",
+            "images_urls": ["/static/images/secondProject0.jpg", "/static/images/secondProject1.jpg", "/static/images/secondProject2.jpg", "/static/images/secondProject3.jpg"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "An interactive form that can be useful to ecommerce web pages.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://compeanr.github.io/Interactive-Form/",
+            "github_link": "https://github.com/CompeanR/Interactive-Form",
+            "images_urls": ["/static/images/thirdProject0.jpg", "/static/images/thirdProject1.jpg", "/static/images/thirdProject2.jpg", "/static/images/thirdProject3.jpg"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "A phrase hunter game that can be useful to joy for a time.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://compeanr.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/CompeanR/OOP-Game-Show-App",
+            "images_urls": ["/static/images/fourthProject0.jpg", "/static/images/fourthProject1.jpg", "/static/images/fourthProject2.jpg", "/static/images/fourthProject3.jpg"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "A random Startup employee directory with the information of 12 active employees, generated with an API.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://compeanr.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/CompeanR/Public-API-Requests",
+            "images_urls": ["/static/images/fifthProject0.jpg", "/static/images/fifthProject1.jpg", "/static/images/fifthProject2.jpg", "/static/images/fifthProject3.jpg"]
+        }
+    ]
+}
