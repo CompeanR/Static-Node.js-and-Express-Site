@@ -1,4 +1,4 @@
-# Static-Node.js-and-Express-Site
+# Static Node.js and Express Site
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
