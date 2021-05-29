@@ -3,10 +3,6 @@ const router = express.Router();
 const { projects } = require('../data/data.json');
 
 router.get('/', (req, res) => {
-    res.redirect('/projects');
-});
-
-router.get('/projects', (req, res) => {
     res.render('index', { projects });
 });
 
